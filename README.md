@@ -22,8 +22,10 @@ Thkans for visiting and I'd love to [connect](https://www.linkedin.com/in/mahama
 <img align="left" alt="CSS" width="76px" height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 <img align="left" alt="JS" width="76px" height="30px" height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
 <img align="left" alt="REACT JS" width="76px" height="30px"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-<img align="left" alt="HTML5" width="76px"  height="30px"  src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> </br>
+<img align="left" alt="HTML5" width="76px"  height="30px"  src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img align="left" alt="BOOSTRAP" width="76px" height="30px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> 
+<br>
+<br>
 <img align="left" alt="PHP" width="76px"  height="30px"  src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
 <img align="left" alt="MYSQL" width="76px"  height="30px"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <img align="left" alt="MATERIAL UI" width="76px"  height="30px"  src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" /> 
