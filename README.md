@@ -1,7 +1,7 @@
 ## Hi I'm Mahamat Nour <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm a Self-thaught Front-end Developer and friendly with Back-End Development. I Spend most of time on learning more about front-end and back-end development.
-Thkanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mahamat-nour-mahamat-abdraman-b44385175/)
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mahamat-nour-mahamat-abdraman-b44385175/)
 ## 
 :mailbox: Reach me out!
 
