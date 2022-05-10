@@ -12,7 +12,7 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mahama
 ## 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working on [Some Laravel Projects](https://github.com/manirDev/Laravel-Book-App)
+- 🔭 I’m currently working on Some Laravel and React JS projects
 - 📚 I'm currently in my final year of <b>Computer Engineering</b> at Karabuk university, in Turkey
 - 📫 How to reach me: manirdev9@gmail.com.
 - ⚡ Fun fact: I speak four languages (French, English, Turkish and Arabic[limited knowledge] ).
