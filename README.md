@@ -2,8 +2,6 @@
   <h1>Hi 👋, I'm Manir MHT</h1>
   <h4>Software Engineer @ TAI | 🅲🅾🅼🅿🆄🆃🅴🆁 🅴🅽🅶🅸🅽🅴🅴🆁</h4>
   <p>𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐚𝐧𝐝 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐞𝐚𝐠𝐞𝐫 𝐭𝐨 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐞 𝐭𝐨 𝐚𝐧𝐲 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐡𝐚𝐫𝐝 𝐰𝐨𝐫𝐤, 𝐚 𝐤𝐞𝐞𝐧 𝐞𝐲𝐞 𝐟𝐨𝐫 𝐝𝐞𝐭𝐚𝐢𝐥 𝐰𝐢𝐭𝐡 𝐞𝐱𝐜𝐞𝐥𝐥𝐞𝐧𝐭 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐬𝐤𝐢𝐥𝐥𝐬. 𝐌𝐨𝐭𝐢𝐯𝐚𝐭𝐞𝐝 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧, 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐭, 𝐚𝐧𝐝 𝐨𝐛𝐬𝐞𝐬𝐬𝐞𝐝     𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐩𝐫𝐨𝐜𝐞𝐬𝐬.</p>
-  
-  <h3 >Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/manirmht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manirDev" height="30" width="40" /></a>
    <a href="https://www.leetcode.com/manirDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matrix278" height="30" width="40" /></a>
@@ -13,8 +11,7 @@
  
 </p>
 </div>
-
-
+<br/>
 <div align ="center">
 <h2>🛠️ Tech Stack</h2>
 
