@@ -6,16 +6,14 @@
   <h3 >Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/manirmht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manirDev" height="30" width="40" /></a>
-   <a href="https://www.leetcode.com/matrix278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matrix278" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/matrix27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
-   <a href="https://stackoverflow.com/users/11167914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
-  <a href="https://martin-sidorov.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martin.sidorov27" height="30" width="40" /></a>
- 
+   <a href="https://www.leetcode.com/manirDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matrix278" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/manirDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matrix27" height="30" width="40" /></a>
+   <a href="https://stackoverflow.com/users/11185081/manir-mahamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11167914" height="30" width="40" /></a>
+  <a href="https://medium.com/@mhtnourmhtmjr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@martin.sidorov27" height="30" width="40" /></a>
  
 </p>
 </div>
 
-<hr/>
 
 <div align ="center">
 <h2>🛠️ Tech Stack</h2>
@@ -29,24 +27,33 @@
 </p>
 </div>
 
-<hr/>
-
 <div align ="center">
   <h2>📘 Daily Problem Solving on LeetCode</h2>
-
-Passionate about problem-solving and algorithmic challenges. I actively engage in coding practice on LeetCode to enhance my data structure and algorithm skills. I regularly solve coding problems to stay sharp and keep up with industry best practices.
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/manirDev/)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/manirDev?theme=unicorn&font=Karma&ext=heatmap)](https://leetcode.com/u/manirDev/)
+  <table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://leetcode.com/u/manirDev/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge">
+      </a>
+      <p>Passionate about problem-solving and algorithmic challenges. I actively engage in coding practice on LeetCode to enhance my data structure and algorithm skills. I regularly solve coding problems to stay sharp and keep up with industry best practices.</p>
+    </td>
+    <td width="50%" align="right">
+      <a href="https://leetcode.com/u/manirDev/">
+        <img src="https://leetcard.jacoblin.cool/manirDev?theme=unicorn&font=Karma&ext=heatmap" alt="LeetCode Stats" width="400">
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
-<hr/>
 
 <div align ="center">
   
   <h2>📊 Stats</h2>
+  
+  [![manirDev's GitHub | Stats](https://stats.quira.sh/manirDev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=manirDev) [![manirDev's Stack Overflow | Stats](https://stats.quira.sh/manirDev/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=manirDev) ![GitHub Streak](https://streak-stats.demolab.com?user=manirDev&theme=gruvbox&border_radius=4.5)
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=manirDev&theme=gruvbox&border_radius=4.5)
+
+  
 
 </div>
