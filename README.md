@@ -48,6 +48,6 @@
   
   <h2>📊 Stats</h2>
   
-  [![manirDev's GitHub | Stats](https://stats.quira.sh/manirDev/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=manirDev) [![manirDev's Stack Overflow | Stats](https://stats.quira.sh/manirDev/stack-overflow?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=manirDev) 
+  [![manirDev's GitHub | Stats](https://stats.quira.sh/manirDev/github?theme=dark)]() [![manirDev's Stack Overflow | Stats](https://stats.quira.sh/manirDev/stack-overflow?theme=dark)]([https://quira.sh?utm_source=widgets&utm_campaign=manirDev](https://stackoverflow.com/users/11185081/manir-mahamat)) 
 
 </div>
