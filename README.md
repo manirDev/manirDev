@@ -42,12 +42,3 @@
   </tr>
 </table>
 </div>
-
-
-<div align ="center">
-  
-  <h2>📊 Stats</h2>
-  
-  [![manirDev's GitHub | Stats](https://stats.quira.sh/manirDev/github?theme=dark)](https://github.com/manirDev) [![manirDev's Stack Overflow | Stats](https://stats.quira.sh/manirDev/stack-overflow?theme=dark)](https://stackoverflow.com/users/11185081/manir-mahamat) 
-
-</div>
